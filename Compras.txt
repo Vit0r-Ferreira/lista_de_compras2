@@ -3,9 +3,6 @@
 3. Arroz
 4. Feijão
 5. Ovo
-<<<<<<< HEAD
 8. Escama de dragão
-=======
 7. Pílula Risus
->>>>>>> alternativa_2
 9. Sopa de código
